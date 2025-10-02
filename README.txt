@@ -1,2 +1,2 @@
 Proyecto BlackJack:
-Hecho por Héctor Bascuñana, Marcos y Pau Collado.
+Hecho por Héctor Bascuñana, Marcos Miquel y Pau Collado.
